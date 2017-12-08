@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zacha\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="26.0.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\zacha\Google Drive\Programs\Android\tower_tuner_compass\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zacha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.0.0.aar\9e3db3c148f4cd2cceb244beb03f7ab4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\zacha\Google Drive\Programs\Android\tower_tuner_compass\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zacha\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\06e56c28149947c9e751c2dcba7238ea\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\zacha\Google Drive\Programs\Android\tower_tuner_compass\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\zacha\.gradle\caches\transforms-1\files-1.1\support-v4-22.0.0.aar\06e56c28149947c9e751c2dcba7238ea\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="10"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\zacha\Google Drive\Programs\Android\tower_tuner_compass\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>
